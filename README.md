@@ -21,6 +21,7 @@ Este dashboard, um projeto real desenvolvido para a **Piracanjuba**, tem como ob
 
 * `data/`: Bases de dados (Excel) utilizadas (anonimizadas).
 * `powerbi/`: Arquivo `.pbix` do dashboard Power BI.
+* `quarto/`: Arquivo .qmd e sua versão HTML renderizada.
 * `figma/`: Arquivos relacionados ao protótipo e design no Figma.
 * `README.md`: Este documento.
 * `LICENSE`: Licença do projeto (MIT License).
