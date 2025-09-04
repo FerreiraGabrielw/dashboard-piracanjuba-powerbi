@@ -1,37 +1,38 @@
-# Projeto: Dashboard Piracanjuba - Análise de Engajamento e Desenvolvimento de Alunos
+# Project: Piracanjuba Dashboard - Student Engagement and Development Analysis
 
-![Thumbnail do Dashboard](quarto/capa.png)
+![Dashboard Thumbnail](quarto/capa.png)
 
-### ➡️ Análise Detalhada e Dashboard Interativo no Meu Portfólio:
-[Acesse a página completa do projeto aqui](https://ferreiragabrielw.github.io/portfolio-gabriel/projetos/Dashboards/5ProjetoPiracanjuba/Projeto5DA.html)
-
----
-
-## Sobre o Projeto
-
-Este dashboard, um projeto real desenvolvido para a **Piracanjuba**, tem como objetivo principal avaliar o **engajamento e o desenvolvimento dos colaboradores** em um curso de tecnólogo. A solução em **Power BI** permite monitorar o progresso dos alunos, identificar áreas de sucesso e oportunidades de melhoria no processo de capacitação, auxiliando na otimização de programas de desenvolvimento interno.
-
-## Tecnologias e Processo
-
-* **Ferramentas**: Power BI Desktop (DAX, M), Figma (prototipação e design), Microsoft Excel (fontes de dados).
-* **ETL**: Dados extraídos de planilhas Excel, transformados no Power Query e modelados para análise.
-* **Insights Chave**: Visão geral de alunos e tempo de estudo, conclusão de módulos (identificando gargalos em avançados), fluxo de novos alunos vs. conclusão mensal, certificados emitidos por conteúdo (ex: Power BI, Excel), e classificação do desempenho dos alunos.
-
-## Conteúdo do Repositório
-
-* `data/`: Bases de dados (Excel) utilizadas (anonimizadas).
-* `powerbi/`: Arquivo `.pbix` do dashboard Power BI.
-* `figma/`: Arquivos relacionados ao protótipo e design no Figma.
-* `README.md`: Este documento.
-* `LICENSE`: Licença do projeto (MIT License).
-
-## Como Visualizar
-
-* **Online**: [Acesse o dashboard publicado no Power BI Service](https://app.powerbi.com/groups/me/reports/e6f8d154-f679-4e1a-8fb4-a81b7300e178/ReportSection8efe23cea1cd7edbb708?experience=power-bi)
-* **Localmente**: Faça o download do arquivo `.pbix` na pasta `powerbi/` e abra-o com o Power BI Desktop.
+### ➡️ Detailed Analysis and Interactive Dashboard in My Portfolio:
+[Access the full project page here](https://ferreiragabrielw.github.io/portfolio-gabriel/projetos/Dashboards/5ProjetoPiracanjuba/Projeto5DA.html)
 
 ---
 
-### Licença
+## About the Project
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+This dashboard, a real project developed for **Piracanjuba**, aims primarily to evaluate the **engagement and development of employees** in a technology degree course. The **Power BI** solution allows monitoring student progress, identifying areas of success and opportunities for improvement in the training process, aiding in the optimization of internal development programs.
+
+## Technologies and Process
+
+*   **Tools**: Power BI Desktop (DAX, M), Figma (prototyping and design), Microsoft Excel (data sources).
+*   **ETL**: Data extracted from Excel spreadsheets, transformed in Power Query and modeled for analysis.
+*   **Key Insights**: Overview of students and study time, module completion (identifying bottlenecks in advanced modules), flow of new students vs. monthly completion, certificates issued by content (e.g., Power BI, Excel), and student performance ranking.
+
+## Repository Content
+
+*   `data/`: Used database files (Excel) (anonymized).
+*   `powerbi/`: Power BI dashboard `.pbix` file.
+*   `quarto/`: `.qmd` file and its rendered HTML version.
+*   `figma/`: Files related to the prototype and design in Figma.
+*   `README.md`: This document.
+*   `LICENSE`: Project license (MIT License).
+
+## How to View
+
+*   **Online**: [Access the published dashboard on Power BI Service](https://app.powerbi.com/groups/me/reports/e6f8d154-f679-4e1a-8fb4-a81b7300e178/ReportSection8efe23cea1cd7edbb708?experience=power-bi)
+*   **Locally**: Download the `.pbix` file from the `powerbi/` folder and open it with Power BI Desktop.
+
+---
+
+### License
+
+This project is licensed under the [MIT License](LICENSE).
